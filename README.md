@@ -59,16 +59,8 @@ Saya passionate dalam menciptakan desain visual yang menarik dan komunikatif. Sa
 </td>
 </tr>
 <tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/adobe-indesign--v1.png" width="65"/>
-<br><strong>InDesign</strong>
-<br>⭐⭐⭐
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/coreldraw.png" width="65"/>
-<br><strong>CorelDRAW</strong>
-<br>⭐⭐⭐
-</td>
+
+
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/000000/instagram-new.png" width="65"/>
 <br><strong>Social Media</strong>
