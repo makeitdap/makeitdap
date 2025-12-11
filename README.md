@@ -21,11 +21,11 @@ Halo! Saya **Dava Dwiki Suryawijaya**, siswa SMK jurusan **Desain Komunikasi Vis
 Saya passionate dalam menciptakan desain visual yang menarik dan komunikatif. Saya percaya bahwa desain yang baik bisa menyampaikan pesan dengan cara yang indah dan efektif!
 
 - 🎓 Siswa DKV di **SMK 8 Surabaya**
-- 🎨 Fokus: Graphic Design, Brand Identity, dan Digital Design
+- 🎨 Fokus: Graphic Design, VideoGrafi, dan Video Editing
 - 🌱 Sedang belajar: Motion Graphics & UI/UX Design
 - 📍 Lokasi: Surabaya, Jawa Timur
-- 🎯 Goal: Menjadi desainer profesional dan membangun portofolio yang keren!
-- ⚡ Hobi: Desain, ilustrasi, dan eksplorasi trend design terbaru
+- 🎯 Goal: Menjadi videografer profesional dan membangun portofolio yang keren!
+- ⚡ Hobi: Desain, videografi, Fotografi, dan eksplorasi trend design terbaru
 
 ---
 
@@ -40,12 +40,12 @@ Saya passionate dalam menciptakan desain visual yang menarik dan komunikatif. Sa
 <td align="center" width="25%">
 <img src="https://img.icons8.com/color/96/000000/adobe-photoshop--v1.png" width="65"/>
 <br><strong>Photoshop</strong>
-<br>⭐⭐⭐⭐⭐
+<br>⭐⭐⭐
 </td>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/color/96/000000/adobe-illustrator--v1.png" width="65"/>
 <br><strong>Illustrator</strong>
-<br>⭐⭐⭐⭐
+<br>⭐⭐⭐⭐⭐⭐
 </td>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/color/96/000000/figma--v1.png" width="65"/>
@@ -60,7 +60,6 @@ Saya passionate dalam menciptakan desain visual yang menarik dan komunikatif. Sa
 </tr>
 <tr>
 
-
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/000000/instagram-new.png" width="65"/>
 <br><strong>Social Media</strong>
@@ -69,7 +68,7 @@ Saya passionate dalam menciptakan desain visual yang menarik dan komunikatif. Sa
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/000000/video-editing.png" width="65"/>
 <br><strong>Video Editing</strong>
-<br>⭐⭐⭐
+<br>⭐⭐⭐⭐⭐⭐
 </td>
 </tr>
 </table>
@@ -120,7 +119,7 @@ Saya passionate dalam menciptakan desain visual yang menarik dan komunikatif. Sa
 ## 📚 Pengalaman & Pencapaian
 
 - 🎨 **Juara [posisi] Lomba Design** - [Nama Event/Institusi] (2024)
-- 📜 **Sertifikat [Nama Program]** - [Platform/Institusi] (2024)
+- 📜 **Sertifikat [Internship]** - [DGPreneur JITC] (2025)
 - 🏆 **Peserta [Workshop/Event]** - [Nama Event] (2024)
 - ⭐ **Project [Nama Project]** - [Deskripsi singkat] (2023)
 
