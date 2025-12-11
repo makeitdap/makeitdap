@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Makeitdap&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Visual%20Communication%20Designer&descAlignY=55&descSize=20" width="100%"/>
@@ -103,12 +101,12 @@ Saya passionate dalam menciptakan desain visual yang menarik dan komunikatif. Sa
 </td>
 <td width="33%" align="center">
 
-### ✏️ Brand Identity
-- Brand Guidelines
-- Business Card
-- Letterhead
-- Merchandise Design
-- Brand Collateral
+### ✏️ Videografi
+- Rolling Shoot
+- Content Editing
+- Beauty Shoot
+- Event Documentation
+- Music Video
 
 </td>
 </tr>
